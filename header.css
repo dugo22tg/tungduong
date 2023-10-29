@@ -1,0 +1,44 @@
+.header {
+  box-sizing: border-box;
+  max-width: 13350px;
+  padding: 0px 3.75rem;
+  margin: 0px auto;
+}
+.image-big span {
+  display: block;
+  position: relative;
+  top: -250px;
+  left: 0;
+  color: black;
+  color: #ffffff;
+}
+.name1-header {
+  letter-spacing: 2.4px;
+  line-height: 26.4px;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.name1-header {
+  font-size: 60px;
+  line-height: 1.1;
+}
+.img-header {
+  text-align: center;
+  object-fit: cover;
+  object-position: center 20%;
+}
+.header-info-lol {
+  position: relative;
+  top: -5rem;
+  margin-bottom: -5rem;
+}
+.image-big {
+  display: grid;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+  width: 100%;
+  padding-bottom: 59.01%;
+  justify-content: center;
+}
